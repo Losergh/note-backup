@@ -1,1 +1,1 @@
-Sitemap: https://losergh.github.io/p-adic_geometry_note/sitemap.xml
+Sitemap: https://losergh.github.io/ag_note/sitemap.xml
